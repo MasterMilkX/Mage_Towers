@@ -1,0 +1,45 @@
+Mage Towers
+============
+
+1. Story
+	Your cat got stolen and now you have to defeat the most powerful mages in the land to retrieve him in order to complete your mage homework on transfiguration
+
+2. Characters
+	Student - the player
+	Red Mage
+	White Mage
+	Blue Mage
+	Yellow Mage
+	Black Mage - the Boss
+	Lackey Mages 
+	Cat - the objective 
+
+3. Level / Environment Design
+	Overworld - Top down navigation and random encounters with lackeys
+	Tower - Scale up floors vertically with platforms
+	Tower Peak - Single room - possible platforms
+
+4. Gameplay
+	Battle - platform action battle similar to Kirby. Scale up floors vertically
+
+5. Art
+	Hand Drawn
+
+6. Sound and Music
+	8-bit music
+
+7. User Interface
+	Health Bar - form of spheres
+	Power Up slots - color spheres
+
+8. Game Controls
+	Left Right - Move
+	Up - Jump
+	Down - Drop Down
+
+	W - Heal
+	D - Deflect
+	S - Sprint
+	A - Normal Attack - 
+	A (hold) - Beam Attack
+
