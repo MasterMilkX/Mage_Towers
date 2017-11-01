@@ -23,7 +23,7 @@ Mage Towers
 	Battle - platform action battle similar to Kirby. Scale up floors vertically
 
 5. Art
-	Hand Drawn
+	Hand Drawn / 8-bit
 
 6. Sound and Music
 	8-bit music
@@ -36,6 +36,7 @@ Mage Towers
 	Left Right - Move
 	Up - Jump
 	Down - Drop Down
+	Up (Double Tap) - Hover
 
 	W - Heal
 	D - Deflect
