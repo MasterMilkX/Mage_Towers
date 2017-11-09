@@ -1,0 +1,50 @@
+body{
+  background-color:#C77DCE;
+}
+h2{
+  text-align: center;
+}
+#game{
+  width:600px;
+  height:300px;
+  border:1px solid #000;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+img{
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  margin-bottom: 10px;
+}
+p{
+  color:#ffffff;
+  font-size:9px;
+}
+#settings{
+  width:600px;
+  border:1px solid #000;
+  background-color:#000000;
+  
+  text-align:center;
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+#area{
+  color: #ffffff;
+}
+
+@font-face {font-family: Fixedsys; src: url('../gui/FSEX300.ttf');}
+
+#gui{
+  font-family: Fixedsys;
+}

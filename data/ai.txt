@@ -1,0 +1,49 @@
+##################
+##				##
+##   AI LOGIC   ##
+##				##
+##################
+
+
+Masters
+--------
+	* Defense
+		- Close		? Run away
+		- Far		? Fireball
+		- Run		? Idle
+		- Fireball 	? [BLOCK]
+
+	* Attack
+		- Close		? Attack
+		- Far		? Run towards
+		- Run		? [SUPER ATTACK]
+		- Fireball	? Jump
+
+	* Speed
+		- Close		? Attack
+		- Far		? [SPRINT] towards
+		- Fireball	? Jump
+		- [BLOCK]	? [SPRINT] around
+
+	* Heal
+		- Close		? Attack
+		- Far		? Run towards
+		- Run 		? [HEAL]
+		- Fireball	? Jump
+
+
+Apprentice
+-----------
+	* Mimic masters except:
+		- [BLOCK]			? Jump
+		- [SUPER ATTACK]	? Attack
+		- [SPRINT]			? Run
+		- [HEAL]			? Run away
+
+
+Sorcerer
+---------
+	- Close		? [SPRINT] away
+	- Far		? [HEAL] / Attack
+	- Run		? [SUPER ATTACK]
+	- Fireball	? [BLOCK]
